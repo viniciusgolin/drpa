@@ -1,6 +1,4 @@
-# Session APS401 - re:Inforce23 - DPRA - Additional Resources
-
-Additional Resources for the APS401 session on re:Inforce 2023
+# Additional REsources for the APS401 session on re:Inforce 2023
 
 Deployment Pipeline Reference Architecture => https://pipelines.devops.aws.dev/
 
