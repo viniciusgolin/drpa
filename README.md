@@ -1,4 +1,4 @@
-# Additional REsources for the APS401 session on re:Inforce 2023
+# Additional Resources for the APS401 session on re:Inforce 2023
 
 Deployment Pipeline Reference Architecture => https://pipelines.devops.aws.dev/
 
