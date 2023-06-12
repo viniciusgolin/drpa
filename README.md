@@ -1,4 +1,4 @@
-# Deployment Pipeline Reference Architecture - Additional Resources
+# Session APS401 - re:Inforce23 - DPRA - Additional Resources
 
 Additional Resources for the APS401 session on re:Inforce 2023
 
